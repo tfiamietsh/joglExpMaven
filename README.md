@@ -1,8 +1,10 @@
 # Java OpenGL Experimental Maven Project [Tiny]
-> JVM arguments for successful build
-> --add-exports java.base/java.lang=ALL-UNNAMED
-> --add-exports java.desktop/sun.awt=ALL-UNNAMED
-> --add-exports java.desktop/sun.java2d=ALL-UNNAMED
+JVM arguments for successful build:
+```
+--add-exports java.base/java.lang=ALL-UNNAMED
+--add-exports java.desktop/sun.awt=ALL-UNNAMED
+--add-exports java.desktop/sun.java2d=ALL-UNNAMED
+```
 ### [Mere Black Window](https://github.com/tfiamietsh/joglExpMaven/commit/bd60613462aa951b27ee1848f3ba327292e6cce2#diff-32d49112ca8c65ad226a8128c3e567e8f354468efde24c10ed9dcb7980e2387c) :heavy_check_mark:
 Minimal JOGL application
 
